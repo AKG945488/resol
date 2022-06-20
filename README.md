@@ -21,7 +21,8 @@
 <h3 align="center"> Heroku Deployment </h3><br>
 × <i> The easy way to host this bot, deploy to Heroku </i>
 <br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AKG945488/resol)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
 
 ----
 
